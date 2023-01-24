@@ -51,11 +51,6 @@
   height: 50px;
 }
 
-.four_div_text {
-  color: white;
-  text-align: center;
-}
-
 .start_img {
   width: 100px;
   height: 30px;
@@ -75,17 +70,12 @@
   transform: scale(1.5);
 }
 
-.border_round {
-  border: 2px solid #0d4f9a;
-  width: 288px !important;
-  height: 70px;
-  margin-right: 6px;
-}
-
 .one_bag_div {
   width: 200px;
   height: 200px;
-  border: 2px solid #0d4f9a;
+  border-bottom: 2px solid #0d4f9a;
+  border-top: 2px solid #0d4f9a;
+  border-left: 2px solid #0d4f9a;
 }
 
 .three_bag_div {
@@ -97,7 +87,9 @@
 .six_bag_div {
   width: 200px;
   height: 220px;
-  border: 2px solid #0d4f9a;
+  border-bottom: 2px solid #0d4f9a;
+  border-top: 2px solid #0d4f9a;
+  border-right: 2px solid #0d4f9a;
 }
 
 .flavor_button_div {
@@ -110,14 +102,16 @@
   height: 30px;
 }
 
-.white_text {
-  color: white;
-}
-
 .green_text {
   color: #2bb34d;
 }
 
 .red_text {
   color: #db421e;
+}
+
+.button_height_width {
+  width: 288px !important;
+  height: 70px;
+  margin-right: 6px;
 }
