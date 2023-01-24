@@ -1,0 +1,117 @@
+.navbar {
+  background-color: #0d4f9a;
+}
+
+.header_two {
+  background-color: #f6f6f6;
+  max-width: 100% !important;
+}
+
+.shop_button {
+  background-color: #0d4f9a !important;
+  color: white !important;
+  width: 80px;
+  height: 60px;
+}
+
+.blue_text_color {
+  color: #0d4f9a !important;
+}
+
+.white_text_color {
+  color: white;
+  margin-left: 100px;
+}
+.search_icon {
+  position: absolute;
+  right: 0px;
+  padding: 6px;
+  margin-right: 6px;
+}
+
+.vertical_slider_height_width {
+  width: 70px;
+  height: 70px;
+}
+
+.horizontal_slider_height_width {
+  width: 120px;
+  height: 130px;
+}
+
+.four_div {
+  background-color: #0d4f9a;
+  max-width: 100% !important;
+}
+.four_div_images {
+  position: relative;
+  top: -25px;
+  margin-left: 150px;
+  width: 50px;
+  height: 50px;
+}
+
+.start_img {
+  width: 100px;
+  height: 30px;
+  margin-left: 100px;
+}
+
+.review_text_color {
+  color: #599dd2;
+}
+
+.zoom_img {
+  height: 400px;
+  width: 400px;
+  transition: transform 0.5s;
+}
+.zoom_img:hover {
+  transform: scale(1.5);
+}
+
+.one_bag_div {
+  width: 200px;
+  height: 200px;
+  border-bottom: 2px solid #0d4f9a;
+  border-top: 2px solid #0d4f9a;
+  border-left: 2px solid #0d4f9a;
+}
+
+.three_bag_div {
+  width: 220px;
+  height: 275px;
+  border: 4px solid #0d4f9a;
+}
+
+.six_bag_div {
+  width: 200px;
+  height: 220px;
+  border-bottom: 2px solid #0d4f9a;
+  border-top: 2px solid #0d4f9a;
+  border-right: 2px solid #0d4f9a;
+}
+
+.flavor_button_div {
+  background-color: #2bb34d;
+}
+
+.most_popular {
+  background-color: #0d4f9a;
+  width: 100% !important;
+  height: 30px;
+}
+
+.green_text {
+  color: #2bb34d;
+}
+
+.red_text {
+  color: #db421e;
+}
+
+.button_height_width {
+  width: 288px !important;
+  height: 70px;
+  margin-right: 6px;
+}
